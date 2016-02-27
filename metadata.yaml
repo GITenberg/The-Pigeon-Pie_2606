@@ -1,0 +1,30 @@
+_repo: The-Pigeon-Pie_2606
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children''s stories, English -- 19th century'
+- !lcsh 'Roundheads -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Juvenile fiction'
+title: The Pigeon Pie
+url: http://www.gutenberg.org/ebooks/2606
